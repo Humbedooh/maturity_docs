@@ -12,7 +12,7 @@
 
   Unless required by applicable law or agreed to in writing,
   software distributed under the License is distributed on an
-  "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+  "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OFgro ANY
   KIND, either express or implied.  See the License for the
   specific language governing permissions and limitations
   under the License.
@@ -192,7 +192,7 @@ OK: See QU50.
 ==== CS10
 _The project maintains a public list of its contributors who have decision power -- the project's PMC (Project Management Committee) consists of those contributors._
 
-OK: Will be at https://home.apache.org/phonebook.html?ctte=groovy once the project graduates. 
+OK: Will be at https://home.apache.org/phonebook.html?ctte=tinkerpop once the project graduates. 
 
 ==== CS20
 _Decisions are made by consensus among PMC members and are documented on the project's main communications channel. Community opinions are taken into account but the PMC has the final word if needed._
