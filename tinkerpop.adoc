@@ -35,7 +35,7 @@ https://community.apache.org/apache-way/apache-project-maturity-model.html
 Most open items resolved. 4 issues remain: CD30, RE40, QU30, CO30
 
 == Overall assessment
-All the below items are marked OK, TinkerPop seems ready to graduate.
+Most of the below items are marked OK, TinkerPop seems close to being ready to graduate.
 
 == Maturity model assessment 
 (Mentors and community members are encouraged to contribute to this 
