@@ -32,7 +32,7 @@ https://community.apache.org/apache-way/apache-project-maturity-model.html
 
 
 == Status of this document
-Most open items resolved. 4 issues remain: CD30, RE40, QU30, CO30
+All items resolved.
 
 == Overall assessment
 Most of the below items are marked OK, TinkerPop seems close to being ready to graduate.
@@ -56,7 +56,7 @@ OK: http://tinkerpop.apache.org/ (see CO10) includes both links to downloads and
 ==== CD30
 _The code can be built in a reproducible way using widely available standard tools._
 
-[red]#Not OK: CI is used on new commits, binary convenience packages available as is the source, but no documentation on how to build it.#
+OK: CI is used on new commits, binary convenience packages available as is the source, documentation exists on how to build it.
 
 ==== CD40
 _The full history of the project's code is available via a source code control system, in a way that allows any released version to be recreated._
@@ -121,7 +121,7 @@ OK: Verified in release votes.
 ==== RE40
 _Convenience binaries can be distributed alongside source code but they are not Apache Releases -- they are just a convenience provided with no guarantee._
 
-[olive]#Almost OK: https://dist.apache.org/repos/dist/release/incubator/tinkerpop/3.1.1-incubating/ for example clearly differentiates between source releases and binary distributions. However, there is no immediate link to source downloads from the web site.#
+OK: https://dist.apache.org/repos/dist/release/incubator/tinkerpop/3.1.1-incubating/ for example clearly differentiates between source releases and binary distributions. There is are immediate links to source downloads from the web site.
 
 === Quality
 
@@ -138,7 +138,7 @@ OK: see QU10
 ==== QU30
 _The project provides a well-documented channel to report security issues, along with a documented way of responding to them._
 
-[red]#Not OK: No security page was found.#
+OK: Project links to the generic security team.
 
 ==== QU40
 _The project puts a high priority on backwards compatibility and aims to document any incompatible changes and provide tools and documentation to help users transition to new features._ 
@@ -165,7 +165,7 @@ OK: The community is working well in this respect.
 ==== CO30
 _Contributions include not only source code, but also documentation, constructive bug reports, constructive discussions, marketing and generally anything that adds value to the project._
 
-[olive]#Mostly OK: Tinkerpop has elected some non-coding committers, as far as I know. Will need to verify.#
+OK: Tinkerpop has elected some non-coding committers, marketing people, designers etc.
 
 ==== CO40
 _The community is meritocratic and over time aims to give more rights and responsibilities to contributors who add value to the project._
