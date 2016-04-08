@@ -35,7 +35,7 @@ https://community.apache.org/apache-way/apache-project-maturity-model.html
 All items resolved.
 
 == Overall assessment
-Most of the below items are marked OK, TinkerPop seems close to being ready to graduate.
+All of the below items are marked OK, TinkerPop seems ready to graduate.
 
 == Maturity model assessment 
 (Mentors and community members are encouraged to contribute to this 
